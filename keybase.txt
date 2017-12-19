@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jckevin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kevinjpickard.com
+  * I am jckevin (https://keybase.io/jckevin) on keybase.
+  * I have a public key ASAZML-6kx-QHam7MO01wz5u1rk678yRalwhqE5uyMMluwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012045618dcd1208fdde92451e5e037ebfa95cde917105e4e665eda48cc728f066c80a",
+      "host": "keybase.io",
+      "kid": "01201930bfba931f901da9bb30ed35c33e6ed6b93aefcc916a5c21a84e6ec8c325bb0a",
+      "uid": "5acaa252ada989c1bcc21e5469fa4719",
+      "username": "jckevin"
+    },
+    "merkle_root": {
+      "ctime": 1513720277,
+      "hash": "4560ae4316a0e8b11e7a687eea7e33867f8a4de852044216341c1dd562332201f66266b8f9b521325a6b6cdf0f686ecbb65792b132ba74c65fd70c630b61f782",
+      "hash_meta": "4a868e348313cc5bd76406d52e19b2088f2c9cb8a13cd6d2367e8fc37900a846",
+      "seqno": 1838651
+    },
+    "service": {
+      "hostname": "kevinjpickard.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1513720287,
+  "expire_in": 504576000,
+  "prev": "c8d3429fcdb1b377e38d99e27e02c3aeef902345545c6c82a81de70ccb5bd16e",
+  "seqno": 54,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGTC/upMfkB2puzDtNcM+bta5Ou/MkWpcIahObsjDJbsKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDU2MThkY2QxMjA4ZmRkZTkyNDUxZTVlMDM3ZWJmYTk1Y2RlOTE3MTA1ZTRlNjY1ZWRhNDhjYzcyOGYwNjZjODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTkzMGJmYmE5MzFmOTAxZGE5YmIzMGVkMzVjMzNlNmVkNmI5M2FlZmNjOTE2YTVjMjFhODRlNmVjOGMzMjViYjBhIiwidWlkIjoiNWFjYWEyNTJhZGE5ODljMWJjYzIxZTU0NjlmYTQ3MTkiLCJ1c2VybmFtZSI6Impja2V2aW4ifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTM3MjAyNzcsImhhc2giOiI0NTYwYWU0MzE2YTBlOGIxMWU3YTY4N2VlYTdlMzM4NjdmOGE0ZGU4NTIwNDQyMTYzNDFjMWRkNTYyMzMyMjAxZjY2MjY2YjhmOWI1MjEzMjVhNmI2Y2RmMGY2ODZlY2JiNjU3OTJiMTMyYmE3NGM2NWZkNzBjNjMwYjYxZjc4MiIsImhhc2hfbWV0YSI6IjRhODY4ZTM0ODMxM2NjNWJkNzY0MDZkNTJlMTliMjA4OGYyYzljYjhhMTNjZDZkMjM2N2U4ZmMzNzkwMGE4NDYiLCJzZXFubyI6MTgzODY1MX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJrZXZpbmpwaWNrYXJkLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzcifSwiY3RpbWUiOjE1MTM3MjAyODcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYzhkMzQyOWZjZGIxYjM3N2UzOGQ5OWUyN2UwMmMzYWVlZjkwMjM0NTU0NWM2YzgyYTgxZGU3MGNjYjViZDE2ZSIsInNlcW5vIjo1NCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAVNP77u85GWUB91JJkCBEq9LdKK0oqgSKvtiG27ik+M8yuQi3l+0gSc/q73uTXkgsgkctgz0ADEr+UXggoAcIEqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgbsqRzyKxVUAnIJZICk2DGEyhc9Isxi6WkIattup4FqejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jckevin
+
+==================================================================
